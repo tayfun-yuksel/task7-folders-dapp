@@ -1,6 +1,6 @@
 # Folder Management Dapp
 
-Check out <a href="">PROJECT DETAILS </a> to learn more
+Check out <a href="https://github.com/tayfun-yuksel/nervos-gitcoin-hackhathon/tree/master/task7">PROJECT DETAILS </a> to learn more
 
 Start UI:
 
